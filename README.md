@@ -4,8 +4,8 @@
 
 - 🤔 &nbsp; Exploring applications of data science within the field of cybersecurity.
 - 🎓 &nbsp; Graduate of the United States Military Academy at West Point (BS Mathematical Sciences) & Harvard SEAS (MS Data Science).
-- 💼 &nbsp; Working as a 1LT within US Army Cyber Command.
-- 🌱 &nbsp; Learning more about Network Engineering.
+- 💼 &nbsp; Working as a 1LT within US Army INSCOM.
+- 🌱 &nbsp; Learning more about Cyber Operations.
 - ✍️ &nbsp; Pursuing Sports Analytics & CrossFit as hobbies/side hustles.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
